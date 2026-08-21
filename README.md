@@ -506,7 +506,7 @@ dotnet test src/SentryGuard.Rules/SentryGuard.Rules.csproj
 
 ## Licencia
 
-MIT License
+ License Reservada (solo con contratos)
 
 ---
 
