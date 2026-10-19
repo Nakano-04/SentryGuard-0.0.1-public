@@ -1,4 +1,4 @@
-# SentryGuard 0.1.0 — Plataforma EDR completa (servidor + agentes + consola)
+# SentryGuard 0.1.0 - Plataforma EDR completa (servidor + agentes + consola)
 
 > **Plataforma EDR modular**: motor de detección (9,026 reglas Sigma + YARA, MITRE ATT&CK, correlación) + servidor .NET 8 (ingestión, auth JWT+TOTP, SignalR, threat intel) + agentes (Go y .NET) + consola React en tiempo real.
 >
@@ -41,7 +41,7 @@
 
 ---
 
-# SentryGuard 0.0.1 — EDR Detection Engine (Modular, Windows + Linux) *(histórico)*
+# SentryGuard 0.0.1 - EDR Detection Engine (Modular, Windows + Linux) *(histórico)*
 
 ---
 
